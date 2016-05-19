@@ -1,2 +1,1 @@
-#Hello, Pull Request
-#きくちゆうか♡
+#Hello, Pull Requestの練習
