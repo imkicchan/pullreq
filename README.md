@@ -1,2 +1,1 @@
-#Hello, Pull Requestの練習
-をしています。
+#Hello, Pull Requestの練習中。
